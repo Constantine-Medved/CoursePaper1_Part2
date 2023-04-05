@@ -41,7 +41,6 @@ public class Main {
         splitString(numbers);
         String letters = "зёрнашелуха";
         splitString(letters);
-
     }
     // *************** ЗАДАЧА *****************
     /* создаём метод для разделения строки и вывода в консоль*/
